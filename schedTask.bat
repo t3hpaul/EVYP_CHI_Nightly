@@ -1,0 +1,1 @@
+SchTasks /Create /SC DAILY /TN "Cleanup" /TR "C:nightly.bat” /ST 03:00
